@@ -2,7 +2,7 @@
 layout: post
 title: රූමස්සල
 image: img/rumassala/cover.jpg
-author: Lahiru Sandaruwan
+author: LahiruSandaruwan
 date: 2018-09-30T07:03:47.149Z
 tags: 
   - රූමස්සල
