@@ -1,7 +1,7 @@
 ---
 layout: post
 title: රූමස්සල
-image: img/testimg-cover.jpg
+image: img/rumassala/cover.jpg
 author: Lahiru Sandaruwan
 date: 2018-09-30T07:03:47.149Z
 tags: 
@@ -48,7 +48,6 @@ tags:
 
 
 ![Test Image](img/testimg1.jpg)
-
 ![Small Test Image](img/testimg2.jpg)
 
 
