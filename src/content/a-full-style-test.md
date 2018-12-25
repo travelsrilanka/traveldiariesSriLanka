@@ -1,189 +1,54 @@
 ---
 layout: post
-title: A Full and Comprehensive Style Test
+title: රූමස්සල
 image: img/testimg-cover.jpg
-author: Ghost
+author: Lahiru Sandaruwan
 date: 2018-09-30T07:03:47.149Z
 tags: 
-  - Tests
+  - රූමස්සල
 ---
 
-Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+## ලස්සන කන්ද
+
+රූමස්සල කන්ද නමින් හැඳින්වෙන්නේ ගාල්ල නගරයට නුදුරින් ගාල්ල - මාතර මහාමාර්ගය පදනම් කරගෙන කිලෝමීටර් දෙකක් පමණ දුරින් පිහිටි කඳු පර්වත සහිත වනාන්තර භූමියකි. සුවිශාල තැනිතලා බිමකට නෑකම් කියන ගාලු දිස්ත්‍රික්කයේ ගාල්ල නගරයට ආසන්නව මෙවන් කඳු වැටියක් පිහිටා තිබීම ඇදහිය නොහැකි කරුණක් බවයි ඇතැමුන් පවසන්නේ. කොටින්ම කිවහොත් රූමස්සල කන්ද එම ස්ථානයට ආගන්තුක කන්දකි.
+
+“රූමස්සල” නමැති නාමය රූ-මස්-සල නමැති වචන තුනට කඩකොට විග්‍රහ කළ හැකි යයි ද අරුත් වශයෙන් එය “ලස්සන කන්ද” නමින් ව්‍යවහාර කළ හැකි යයි ද රූමස්සල “බොනවිස්ටා” යන නමින් ද හැඳින්වෙන අතර එහි අරුත නම් “ලස්සන භූමි භාගය” යන්න බව ද ඇතැමුන්ගේ මතයයි.
+
+දිගටිව සහ සිහින්ව පිහිටි මෙම අසිරිමත් කුඩා කඳු වැටියේ පුරාම ඉතාම දුර්ලභ ගණයේ ඖෂධ වර්ග බොහොමයක්ම පවතින බව කියනු ලැබේ. මෙහි ඇති ඖෂධ වර්ග ගණන 150 ද ඉක්මවන බව විද්වත්හු පවසති. රූමස්සල කඳු වැටිය සම්බන්ධයෙන් ගෙතී ඇති ජනප්‍රවාද සංඛ්‍යාව ද සුළුපටු නොවේ. මෙම කඳු මුදුනේ පලතුරු ගස් ඇති අතර ඒවායේ ඉදුණු පලතුරු පවතී. විටෙක රූමස්සල කඳු වැටිය තරණය කරන්නෝ එහි අතරමං වෙති. එවිට එහි පවතින පලතුරු කෑවොත් ඔවුන්ට ඉදිරියට ගමන් කිරීමට ඇති මාර්ගය පෑදෙන බවත් යළිත් මංමුලා නොවන බවත් කියනු ලැබේ.
+
+මෙම ජනකතාව නුවරඑළිය ප්‍රදේශයේ පවතින්නේ තරමක් වෙනස්වය. හග්ගල කඳු මුදුනේත් වලපනේ මහකුඩුගල කඳු මුදුනේත් පලතුරු උයන් පවතින අතර එහි යන කෙනෙකුට ඕනෑතරම් පලතුරු කෑ හැකිය. එහෙත් ආපසු යන විට ගෙන යා නොහැකිය. එසේ ගෙන යාමට උත්සාහ කරන අයට මඟ වරදී. තවදුරටත් එහි ඇති මංමුලාවැල් පෑගුනොත් ඔවුනට ද මඟ වරදී.
+
+රූමස්සල කඳු වැටිය මෙම ස්ථානයට ආගන්තුකව ලැබුණු එකක් බව මෙහි ඉහතින් ද දක්වා ඇත. එසේ කියා ඇඟ බේරා ගන්නට ද නොහැකිය. රාමායනය අනාවරණය කරන තොරතුරු ආශ්‍රයෙන් රූමස්සල කන්ද ආගන්තුක එකක් බව සනාථ කර ගත හැකි නම් එය අප ලද ජයග්‍රහණයක් බව කිව යුතුය.
+
+රාවණාගේ ලංකාපුරය හම්බන්තොට කුඩා රාවණා හා මහා රාවණා කොටු ආශි‍්‍රතව පැවතියා නම් රූමත් සීතා පැහැරගෙන විත් සඟවා තැබීමේ පටන් යළිත් රාම සහ හනුමාන් ඇතුළු පිරිස සීතා සොයාගෙන ආපසු කැඳවාගෙන යාම දක්වා ද සියලු සිදුවීම්, සිදු වූයේ ද එම රාවණා කොටු ආශි‍්‍රතව බව අප පිළිගත යුතුය. රාම සහ රාවණා අතර අති බිහිසුණු යුද්ධය පැවතියේ ද එහිදීමය.
+
+රාමත් - රාවණාත් අතර බිහිසුණු යුද්ධයක් ඇති නොවී සඟවා තිබුතැනින් හනුමාන් සොයා ගත් සීතාත් කැටුව ආපසු දඹදිව බලා යන්නට රාමට හොඳටම ඉඩකඩ තිබුණි. සඟවා තිබු තැනින් සොයා ගත් මොහොතේ හනුමාන් සීතාත් පිටේ තබාගෙන ආරක්ෂිතව එක පිම්මෙන්ම දඹදිවට පනින්නදැයි හනුමාන් සීතාගෙන් විමසුවේය. එය නිවට ක්‍රියාවක් බව කී සීතා සිය සැමියා වන රාමගේත් ඔහුගේ සොහොයුරු ලක්ෂමණගේත් බලපරාක්‍රමය දුෂ්ට රාවණාට පෙන්විය යුතු යයි කියා රාවණා සමඟ සටන් කොට ඔහු මරා දමා ආපසු පිටත්ව යාමට සූදානමින් රාම - ලක්ෂමණ සහ හමුදාව ගෙන එන්නැයි සීතා හනුමාන්ට අණ කළාය.
+
+රාම - රාවණා අතර ප්‍රබල යුද්ධයක් ඇතිවීමට ප්‍රධාන හේතුව වූයේ සීතාගේ එම ප්‍රකාශයයි. යුද්ධයේ දී වරෙක රාවණාට අවාසි විය. තවත් වරෙක රාමට අවාසි විය. රාවණා යනු ද ඉතා බලසම්පන්න රජෙකි. දසිස් නම් වූ ඔහුට හිස් දහයක් ඇත. ඇත්ත වශයෙන්ම නම් හිස් දහයක් තිබුණා නොවේ. ශක්තිවන්ත මිනිසුන් දස දෙනෙකුගේ ශක්තිය හෙවත් ඇතෙකුගේ ප්‍රබල ශක්තිය රාවණාට තිබුණි.
+
+රාම සහ ඔහුගේ වානර හමුදාව කොතරම් බලසම්පන්න වූවත් යුද්ධයේ එක් අවස්ථාවක දී රාවණා හා ඔහුගේ යක්ෂ ගෝත්‍රික හමුදාව ඉදිරියේ රාමත් ලක්ෂමණත් වානර හමුදාවෙන් බොහෝ පිරිසකුත් යුදබිම මැරී වැටුණහ. රාමගේ පක්ෂයට අන්ත පරාජයක් අත්වෙමින් පැවතිය දී රාමගේ හමුදාවේ බලවතෙකු වූ ජම්බුවාන්ට මහාවීර හනුමාන් පිළිබඳව සිහිපත් වෙයි.
+
+මියගියවුන් නැවත ජීවත් කරවීමේ හෙවත් අමරණීය කරවීමේ ඖෂධ ගැන දන්නේ ජම්බුවාන්ය. එහෙත් එම ඖෂධ ඇත්තේ දඹදිවය. රැය පහන් වන්නට කලියෙන් එම ඖෂධ රැගෙන ඒමේ හැකියාව ඇත්තේ මහා වීර හනුමාන්ට පමණි. එසේ ඖෂධ ගෙනාවොත් ඒ ඖෂධ බලයෙන් රාම - ලක්ෂමණ පමණක් නොව මියගියවුන් බොහොමයකට යළි ප්‍රාණය ලබා දිය හැකිය.
+
+එබැවින් අවශ්‍ය ඖෂධ පිළිබඳ උපදෙස් ලබාගත් හනුමාන් එක පිම්මෙන්ම දඹදිවට ගොස් එහි හිමාලය වනාන්තරයේ ඖෂධ උද්‍යානයට පිවිසෙයි.
+
+අවාසනාවකි. මේ වන විට ගෙන යා යුතු ඖෂධවල නම් හනුමාන්ට අමතක වී ඇත. ඒවා මතක් කරමින් ඉන්නට කාලය ද නොවේ. රැය පහන් වන්නට මත්තෙන් ඖෂධත් රැගෙන යළි ලංකාපුරයට යා යුතුය. එසේනම් කළ යුතු එකම දේ ඖෂධ වනාන්තරය ගලවාගෙන අතේ හෝ පිටේ තබාගෙන ලංකාපුරයට එක පිම්මෙන්ම පැනීමයි.
+
+ඖෂධ වනාන්තරයේ ඒ-මේ අත සැරිසැරීමේ දී ප්‍රබල ඖෂධවල සුවඳ ආඝ්‍රණය වීමෙන් හනුමාන්ගේ බලය සහ ශක්තිය සිය දහස් ගුණයකින් වැඩි වර්ධනය විය. ලොකු හෝ කුඩා කර ගත හැකි හනුමාන්ගේ ශරීරයේ විශාලත්වය යොදුන් හැත්තෑවකි. හනුමාන් ඖෂධ වනාන්තරය ගලවා හිස පිට තබාගෙන ලංකාපුරයට එයි. එම ඖෂධ බලයෙන් රාම, ලක්ෂමණ සහ පිරිස නැවත ප්‍රාණය ලබති.
+
+දැන් හනුමාන් ඖෂධ වනාන්තරය හිමාලයට ගෙන ගොස් එය තිබුණ තැන, තිබුණ අයුරින්ම පිහිටුවිය යුතුය. එසේ පිහිටුවීම සඳහා ගුවනින් රැගෙන යන මොහොතේ ඖෂධ වනාන්තරයෙන් කෑල්ලක් කැඩී මහ පොළව මත පතිත විය. එය පතිත වූයේ ගාල්ලේ මුහුද අද්දරටය. රූමස්සල කන්ද වූයේ එසේ පොළවට පතිත වූ ඖෂධ වනාන්තර කෑල්ලයි.
+
+ඇත්ත වශයෙන්ම රූමස්සල කන්ද වැනි කන්දක් එම ස්ථානයේ පිහිටීම මවිතකර වුවත් එය එම ස්ථානයට ආගන්තුකව පැමිණි කන්දක් වුවත් දුර්ලභ ගණයේ ඖෂධ වර්ග 150 කට වැඩි ප්‍රමාණයක් එහි පැවතීමෙන් එය හනුමාන් ගෙන ගිය ඖෂධ වනාන්තරයෙන් කැඩී වැටුණ කෑල්ල ලෙස හඳුන්වන්නට ගැමියෝ පෙලඹුණහ. රූමස්සල කන්ද පිළිබඳ ජනප්‍රවාදයේ සඳහන් වන්නේ එලෙසිනි.
+
+මෙම සිද්ධිය රාවණාගේ ලංකාපුරය කුඩා හා මහා රාවණා කොටු බව සනාථ කරන්නට ප්‍රබල සාක්ෂියක් වනවාට අනුමානයක් නැත.
+
+එසේ වුවද රූමස්සල කඳු වැටිය පිළිබඳ මෙවන් අදහසක් ද පළ වේ. රූමස්සල, දොලුගල සහ රිටිගල යනු දුර්ලභ ඖෂධ වර්ගවලින් සපිරි මෙරට පිහිටි ඔසු උයන්ය. මේවා ඉතා පුරාණයේ සිට පැවත එන බව පැවසේ. පුලතිසි නම් වූ ඉසිවරයකු ඉදිකළ ඔසු උයන් ලෙස ද සැලකේ. ඒ හැරෙන්නට හනුමාන් දඹදිව හිමාලය පර්වතයේ සිට ඖෂධ කන්දක් ඔසොවාගෙන පැමිණිමත් ඉන් කැඩුණු කෑල්ල මහ පොළව මත පතිතව රූමස්සල ඖෂධ කන්ද ඉදිවූ බවත් විශ්වාස කළ නොහැකි යයි ඇතැම්මු පවසති.
 
 ---
 
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
----
-
-Lorem ipsum dolor sit amet, [test link]() adipiscing elit. **This is strong.** Nullam dignissim convallis est. Quisque aliquam. _This is emphasized._ Donec faucibus. Nunc iaculis suscipit dui. 5<sup>3</sup> = 125. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. <cite>The New York Times</cite> (That’s a citation). <span style="text-decoration:underline;">Underline</span>. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
-
-HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. To copy a file type `COPY filename`. <del>Dinner’s at 5:00.</del> <span style="text-decoration:underline;">Let’s make that 7</span>. This <del>text</del> has been struck.
-
----
-
-## Media
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.
-
-### Big Image
 
 ![Test Image](img/testimg1.jpg)
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-### Small Image
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.
-
 ![Small Test Image](img/testimg2.jpg)
 
-Labore et dolore.
 
----
-
-## List Types
-
-### Definition List
-
-Definition List Title
-: This is a definition list division.
-
-Definition
-: An exact statement or description of the nature, scope, or meaning of something: _our definition of what constitutes poetry._
-
-### Ordered List
-
-1. List Item 1
-2. List Item 2
-   1. Nested list item A
-   2. Nested list item B
-3. List Item 3
-
-### Unordered List
-
-- List Item 1
-- List Item 2
-  - Nested list item A
-  - Nested list item B
-- List Item 3
-
----
-
-## Table
-
-| Table Header 1 | Table Header 2 | Table Header 3 |
-| :------------: | :------------: | :------------: |
-| Division 1     | Division 2     | Division 3     |
-| Division 1     | Division 2     | Division 3     |
-| Division 1     | Division 2     | Division 3     |
-
----
-
-## Preformatted Text
-
-Typographically, preformatted text is not the same thing as code. Sometimes, a faithful execution of the text requires preformatted text that may not have anything to do with code. Most browsers use Courier and that’s a good default — with one slight adjustment, Courier 10 Pitch over regular Courier for Linux users.
-
-### Code
-
-Code can be presented inline, like `<?php bloginfo('stylesheet_url'); ?>`, or using [jekyll's highlight
-filter](http://jekyllrb.com/docs/templates/#code-snippet-highlighting) to
-highlight a block of code. Because we have more specific typographic needs for code, we’ll specify Consolas and Monaco ahead of the browser-defined monospace font.
-
-```css
-#container {
-    float: left;
-    margin: 0 -240px 0 0;
-    width: 100%;
-}
-```
-
----
-
-## Blockquotes
-
-Let’s keep it simple. Italics are good to help set it off from the body text. Be sure to style the citation.
-
-> Good afternoon, gentlemen. I am a HAL 9000 computer. I became operational at the H.A.L. plant in Urbana, Illinois on the 12th of January 1992. My instructor was Mr. Langley, and he taught me to sing a song. If you’d like to hear it I can sing it for you. — [HAL 9000](http://en.wikipedia.org/wiki/HAL_9000)
-
-And here’s a bit of trailing text.
-
----
-
-## Text-level semantics
-
-HTML elements
-
-<p>The <a href="#">a element</a> example <br>
-The <abbr>abbr element</abbr> and <abbr title="Title text">abbr element with title</abbr> examples <br>
-The <b>b element</b> example <br>
-The <cite>cite element</cite> example <br>
-The <code>code element</code> example <br>
-The <del>del element</del> example <br>
-The <dfn>dfn element</dfn> and <dfn title="Title text">dfn element with title</dfn> examples <br>
-The <em>em element</em> example <br>
-The <i>i element</i> example <br>
-The <ins>ins element</ins> example <br>
-The <kbd>kbd element</kbd> example <br>
-The <mark>mark element</mark> example <br>
-The <q>q element <q>inside</q> a q element</q> example <br>
-The <s>s element</s> example <br>
-The <samp>samp element</samp> example <br>
-The <small>small element</small> example <br>
-The <span>span element</span> example <br>
-The <strong>strong element</strong> example <br>
-The <sub>sub element</sub> example <br>
-The <sup>sup element</sup> example <br>
-The <var>var element</var> example <br>
-The <u>u element</u> example</p>
-* * *
-
-## Embeds
-
-Sometimes all you want to do is embed a little love from another location and set your post alive.
-
-### Video
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Culpa qui officia deserunt mollit anim id est laborum.
-
-<iframe src="//player.vimeo.com/video/103224792" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-### Slides
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-<script async class="speakerdeck-embed" data-id="585245d01ee1013238737e42b879906f" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
-
-Culpa qui officia deserunt mollit anim id est laborum.
-
-### Audio
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/52891122&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-
-Culpa qui officia deserunt mollit anim id est laborum.
-
-### Code
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
-
-<p data-height="268" data-theme-id="0" data-slug-hash="bcqhe" data-default-tab="result" data-user="rglazebrook" class='codepen'>See the Pen <a href='http://codepen.io/rglazebrook/pen/bcqhe/'>Simple Rotating Spinner</a> by Rob Glazebrook (<a href='http://codepen.io/rglazebrook'>@rglazebrook</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
-<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
-
-Isn't it beautiful.
-
-*[HTML]: Hyper Text Markup Language
-*[CSS]: Cascading Style Sheets
